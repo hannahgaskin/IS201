@@ -1,0 +1,12 @@
+.underline{text-decoration: underline; font-weight: bold;}
+.bold{font-weight: bold;}
+.italicized{font-style: italic;}
+.color{
+    background-image: url('../assets/img/yellow2.jpg');
+}
+.heading{
+    color: gray;
+}
+.font{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
